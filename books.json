@@ -416,7 +416,7 @@
       "genre": "Historical Fiction",
       "booksCount": 14,
       "pageCount": 1225,
-      "image": "https://images.unsplash.com/photo-1503428587375-8075d9e91db0?ixlib=rb-1.2.1&auto=format&fit=crop&w=1170&q=80",
+      "image": "https://images.unsplash.com/photo-1524995997946-a1c2e315a42f?ixlib=rb-1.2.1&auto=format&fit=crop&w=1170&q=80",
       "borrowCount": 8,
       "createdAt": "2024-06-14T23:00:00Z"
     },
@@ -626,7 +626,7 @@
       "genre": "Novel",
       "booksCount": 7,
       "pageCount": 251,
-      "image": "https://images.unsplash.com/photo-1475051991683-8c818a1e8ed1?ixlib=rb-1.2.1&auto=format&fit=crop&w=1170&q=80",
+      "image": "https://images.unsplash.com/photo-1529655683826-aba9b3e77383?ixlib=rb-1.2.1&auto=format&fit=crop&w=1170&q=80",
       "borrowCount": 4,
       "createdAt": "2024-06-15T07:00:00Z"
     },
@@ -682,7 +682,7 @@
       "genre": "Novel",
       "booksCount": 12,
       "pageCount": 234,
-      "image": "https://images.unsplash.com/photo-1475051991683-8c818a1e8ed1?ixlib=rb-1.2.1&auto=format&fit=crop&w=1170&q=80",
+      "image": "https://images.unsplash.com/photo-1529655683826-aba9b3e77383?ixlib=rb-1.2.1&auto=format&fit=crop&w=1170&q=80",
       "borrowCount": 9,
       "createdAt": "2024-06-15T09:00:00Z"
     },
